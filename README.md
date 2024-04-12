@@ -1,4 +1,4 @@
-# Just example how to use a gem `convenient_service`
+# Just an example of how to use a gem `convenient_service`
 
 ## Usage:
 run:
